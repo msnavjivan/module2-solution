@@ -40,13 +40,15 @@ p {
   margin-bottom: 40px;
   background-color: #999999;
   border: 2px solid black;
+  height: 250px;
+
   /*overflow:hidden;*/
 
 
 }
 
 .section-title{
-  width: 30%;
+  width: 40%;
   height:50px;
   float:right;
 
